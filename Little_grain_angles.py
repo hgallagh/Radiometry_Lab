@@ -15,3 +15,4 @@
 
 #That makes enough sense that we need to use what we did in part 1 if this is part 2, we are
 #using an emperical way of doing things from our line graph thing with some slope ideas...
+print('Im a little grain reflectance, I end up being brighter...spoilers.')
